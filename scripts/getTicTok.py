@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+import pandas as pd
 
 
 
@@ -11,6 +12,7 @@ website = "https://ads.tiktok.com/business/creativecenter/inspiration/popular/ha
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.get(website)
+
 
 def dataForGermany():
     # press dropdown
@@ -36,13 +38,20 @@ def dataForGermany():
     selectViewMore.click()
     time.sleep(2)
 
-    charts = driver.find_elements("class name", "card-wrapper--o1aWr card-wrapper--RF-4I")
-    for chart in charts:
-        print(chart.get_attribute('innerHTML'))
+    # get Data
+    charts = driver.find_elements("id", "hashtagItemContainer")
+    print(charts)
 
+    rank =[]
+    hashtag = []
+    post = []
+    views = []
+
+    for chart in charts:
+        print(chart.find_element("xpath", '//span[starts-with(@class,"titleText")]').text)
+        
 
     driver.quit()
-
 
 driver.get(website)
 dataForGermany()
