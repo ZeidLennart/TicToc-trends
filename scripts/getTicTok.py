@@ -35,10 +35,12 @@ def WebInteraction(driver, country, number):
     selectViewMore.click()
     time.sleep(2)
 
-def getHashTagData(country, number):
+def getHashTagData(link, country, number):
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    driver.get(link)
 
     # do the interaction with the website
-    WebInteraction(country, number)
+    WebInteraction(driver, country, number)
 
     # get Data
     rank =[]
@@ -57,6 +59,8 @@ def getHashTagData(country, number):
 
     for v in driver.find_elements("xpath", '//div[starts-with(@class,"pav-wrapper")]/div[2]/span[1]'):
         views.append(v.text.replace("k", "000").replace("M", "000000"))
+
+    driver.quit()
 
     #save data
     df = pd.read_csv("./Data/TikToc_Hashtags.csv")
@@ -120,6 +124,7 @@ def getSongData(link, country, number):
 
 def harvestData():
     # Harvest Hashtags
+    getHashTagData(website_HashTags, "All regions", "6")
     getHashTagData(website_HashTags, "United States", "76")
     getHashTagData(website_HashTags, "Germany", "27")
     getHashTagData(website_HashTags, "United Kingdom", "75")
@@ -131,4 +136,4 @@ def harvestData():
     getSongData(website_Songs, "United Kingdom", "74")
     getSongData(website_Songs, "Australia", "7")
 
-harvestData() 
+harvestData()
