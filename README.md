@@ -7,9 +7,7 @@ Germany: https://open.spotify.com/playlist/37i9dQZEVXbJiZcmkrIHGU
 USA: https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp
 
 TicToc: 
-Global: https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en
-Germany: https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en
-Australia: https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en
+https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en
 
 Netflix: 
 https://www.whats-on-netflix.com/most-popular/
