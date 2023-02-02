@@ -52,7 +52,7 @@ def getHashTagData(link, country, number):
         rank.append(r.text)
     
     for h in driver.find_elements("xpath", '//span[starts-with(@class,"titleText")]'):
-        hashtag.append(h.text)
+        hashtag.append(h.text.replace("k", "000").replace("M", "000000"))
     
     for p in driver.find_elements("xpath", '//div[starts-with(@class,"pav-wrapper")]/div[1]/span[1]'):
         post.append(p.text.replace("k", "000").replace("M", "000000"))
