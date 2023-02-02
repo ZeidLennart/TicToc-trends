@@ -359,18 +359,93 @@ rank,hashtag,posts,views,country,day,timeScriptWasExecuted
 13,# doors,558.0,4.2,United Kingdom,2023-02-01,18:40:23.404683
 14,# pathan,1.3,6.7,United Kingdom,2023-02-01,18:40:23.404683
 15,# jellycat,960.0,8.3,United Kingdom,2023-02-01,18:40:23.404683
-1,# sunday,716,1.6000000,Australia,2023-02-01,18:40:41.136360
-2,# albumcover,179,1.4000000,Australia,2023-02-01,18:40:41.136360
-3,# khalistan,184,1.7000000,Australia,2023-02-01,18:40:41.136360
-4,# djokovic,236,6.6000000,Australia,2023-02-01,18:40:41.136360
-5,# novakdjokovic,198,3.4000000,Australia,2023-02-01,18:40:41.136360
-6,# royalrumble,129,5.5000000,Australia,2023-02-01,18:40:41.136360
-7,# celtics,162,1.4000000,Australia,2023-02-01,18:40:41.136360
-8,# tsitsipas,133,2.9000000,Australia,2023-02-01,18:40:41.136360
-9,# sikh,237,1.9000000,Australia,2023-02-01,18:40:41.136360
-10,# postmalone,134,1.7000000,Australia,2023-02-01,18:40:41.136360
-11,# pedropascaledit,206,4000000,Australia,2023-02-01,18:40:41.136360
-12,# romanreigns,71,3.7000000,Australia,2023-02-01,18:40:41.136360
-13,# novak,69,1.2000000,Australia,2023-02-01,18:40:41.136360
-14,# doors,121,881.7000,Australia,2023-02-01,18:40:41.136360
-15,# sundayvibes,147,306.8000,Australia,2023-02-01,18:40:41.136360
+1,# sunday,716.0,1.6,Australia,2023-02-01,18:40:41.136360
+2,# albumcover,179.0,1.4,Australia,2023-02-01,18:40:41.136360
+3,# khalistan,184.0,1.7,Australia,2023-02-01,18:40:41.136360
+4,# djokovic,236.0,6.6,Australia,2023-02-01,18:40:41.136360
+5,# novakdjokovic,198.0,3.4,Australia,2023-02-01,18:40:41.136360
+6,# royalrumble,129.0,5.5,Australia,2023-02-01,18:40:41.136360
+7,# celtics,162.0,1.4,Australia,2023-02-01,18:40:41.136360
+8,# tsitsipas,133.0,2.9,Australia,2023-02-01,18:40:41.136360
+9,# sikh,237.0,1.9,Australia,2023-02-01,18:40:41.136360
+10,# postmalone,134.0,1.7,Australia,2023-02-01,18:40:41.136360
+11,# pedropascaledit,206.0,4000000.0,Australia,2023-02-01,18:40:41.136360
+12,# romanreigns,71.0,3.7,Australia,2023-02-01,18:40:41.136360
+13,# novak,69.0,1.2,Australia,2023-02-01,18:40:41.136360
+14,# doors,121.0,881.7,Australia,2023-02-01,18:40:41.136360
+15,# sundayvibes,147.0,306.8,Australia,2023-02-01,18:40:41.136360
+1,# superbowl,32.4,244.4,All regions,2023-02-02,16:27:09.944689
+2,# eagles,32.3,297.5,All regions,2023-02-02,16:27:09.944689
+3,# albumcover,33.3,110.4,All regions,2023-02-02,16:27:09.944689
+4,# esland,16.1,411.5,All regions,2023-02-02,16:27:09.944689
+5,# chiefs,19.4,230.5,All regions,2023-02-02,16:27:09.944689
+6,# bengals,23.6,354.5,All regions,2023-02-02,16:27:09.944689
+7,# monday,31.7,70.4,All regions,2023-02-02,16:27:09.944689
+8,# mondaymotivation,16.3,42.9,All regions,2023-02-02,16:27:09.944689
+9,# philadelphiaeagles,10.2,104.9,All regions,2023-02-02,16:27:09.944689
+10,# joeburrow,12.3,257.5,All regions,2023-02-02,16:27:09.944689
+11,# chiefskingdom,8.2,73.4,All regions,2023-02-02,16:27:09.944689
+12,# kansascitychiefs,7.1,70000000.0,All regions,2023-02-02,16:27:09.944689
+13,# lunes,11.1,31.4,All regions,2023-02-02,16:27:09.944689
+14,# patrickmahomes,7.5,102.6,All regions,2023-02-02,16:27:09.944689
+15,# mondaymood,9000.0,20.9,All regions,2023-02-02,16:27:09.944689
+1,# superbowl,29.8,207.2,United States,2023-02-02,16:27:27.785188
+2,# eagles,30000.0,248.9,United States,2023-02-02,16:27:27.785188
+3,# chiefs,18.4,202.6,United States,2023-02-02,16:27:27.785188
+4,# bengals,22.3,319.7,United States,2023-02-02,16:27:27.785188
+5,# philadelphiaeagles,9.8,95.1,United States,2023-02-02,16:27:27.785188
+6,# joeburrow,11.7,229.7,United States,2023-02-02,16:27:27.785188
+7,# chiefskingdom,8000.0,65.4,United States,2023-02-02,16:27:27.785188
+8,# albumcover,10.4,38.5,United States,2023-02-02,16:27:27.785188
+9,# kansascitychiefs,6.7,60.8,United States,2023-02-02,16:27:27.785188
+10,# patrickmahomes,7.1,88.7,United States,2023-02-02,16:27:27.785188
+11,# philadelphia,7.8,85.2,United States,2023-02-02,16:27:27.785188
+12,# flyeaglesfly,6.2,52.6,United States,2023-02-02,16:27:27.785188
+13,# afcchampionship,4.7,67.5,United States,2023-02-02,16:27:27.785188
+14,# cheifs,4.2,30.8,United States,2023-02-02,16:27:27.785188
+15,# mondaymotivation,9.3,15.3,United States,2023-02-02,16:27:27.785188
+1,# albumcover,1.8,5.9,Germany,2023-02-02,16:27:49.125297
+2,# monday,1.1,2.1,Germany,2023-02-02,16:27:49.125297
+3,# lune,959.0,18.7,Germany,2023-02-02,16:27:49.125297
+4,# aliusta,435.0,43.3,Germany,2023-02-02,16:27:49.125297
+5,# قعيدالمجد🇸🇦,189.0,963.3,Germany,2023-02-02,16:27:49.125297
+6,# cancelo,254.0,2.1,Germany,2023-02-02,16:27:49.125297
+7,# قعيد,179.0,1.9,Germany,2023-02-02,16:27:49.125297
+8,# mondaymotivation,385.0,2.6,Germany,2023-02-02,16:27:49.125297
+9,# amar,260.0,5.4,Germany,2023-02-02,16:27:49.125297
+10,# lüge,642.0,4.1,Germany,2023-02-02,16:27:49.125297
+11,# lästern,298.0,3.2,Germany,2023-02-02,16:27:49.125297
+12,# aleksvisha,139.0,1.9,Germany,2023-02-02,16:27:49.125297
+13,# يمان_نجار,411.0,4.5,Germany,2023-02-02,16:27:49.125297
+14,# sharo,176.0,3.5,Germany,2023-02-02,16:27:49.125297
+15,# albumcoverchallenge,291.0,526.2,Germany,2023-02-02,16:27:49.125297
+1,# albumcover,4.2,8.5,United Kingdom,2023-02-02,16:28:06.522722
+2,# monday,2.2,4.9,United Kingdom,2023-02-02,16:28:06.522722
+3,# tommyfury,983.0,48.5,United Kingdom,2023-02-02,16:28:06.522722
+4,# mollymae,526.0,22.1,United Kingdom,2023-02-02,16:28:06.522722
+5,# mollymaehague,431.0,14.1,United Kingdom,2023-02-02,16:28:06.522722
+6,# cancelo,459.0,1.7,United Kingdom,2023-02-02,16:28:06.522722
+7,# album,927.0,3.1,United Kingdom,2023-02-02,16:28:06.522722
+8,# mondaymood,587.0,913.9,United Kingdom,2023-02-02,16:28:06.522722
+9,# cashapp,340.0,1.2,United Kingdom,2023-02-02,16:28:06.522722
+10,# bayern,444.0,3.1,United Kingdom,2023-02-02,16:28:06.522722
+11,# peshawar,501.0,2.6,United Kingdom,2023-02-02,16:28:06.522722
+12,# bayernmunich,457.0,2.3,United Kingdom,2023-02-02,16:28:06.522722
+13,# mollymaebaby,132.0,4.7,United Kingdom,2023-02-02,16:28:06.522722
+14,# healthandsocialcare,143.0,1.9,United Kingdom,2023-02-02,16:28:06.522722
+15,# aleksvisha,107.0,1.4,United Kingdom,2023-02-02,16:28:06.522722
+1,# albumcover,1.5000,3.6000000,Australia,2023-02-02,16:28:25.828727
+2,# backtoschool,1.8000,9.8000000,Australia,2023-02-02,16:28:25.828727
+3,# postmalone,332,2.3000000,Australia,2023-02-02,16:28:25.828727
+4,# year12,406,2.9000000,Australia,2023-02-02,16:28:25.828727
+5,# schoollife,419,5000000,Australia,2023-02-02,16:28:25.828727
+6,# firstdayofschool,402,1.4000000,Australia,2023-02-02,16:28:25.828727
+7,# mafs,218,2.8000000,Australia,2023-02-02,16:28:25.828727
+8,# monday,317,905.6000,Australia,2023-02-02,16:28:25.828727
+9,# redhotchilipeppers,211,1000000,Australia,2023-02-02,16:28:25.828727
+10,# album,342,1000000,Australia,2023-02-02,16:28:25.828727
+11,# year7,215,1.5000000,Australia,2023-02-02,16:28:25.828727
+12,# suncorpstadium,126,540.7000,Australia,2023-02-02,16:28:25.828727
+13,# tools,170,7.4000000,Australia,2023-02-02,16:28:25.828727
+14,# mafsaustralia,177,1.2000000,Australia,2023-02-02,16:28:25.828727
+15,# firstday,176,1.3000000,Australia,2023-02-02,16:28:25.828727
